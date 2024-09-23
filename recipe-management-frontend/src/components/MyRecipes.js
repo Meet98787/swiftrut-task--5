@@ -61,7 +61,7 @@ const MyRecipes = () => {
             <div key={recipe._id} className="bg-white rounded-lg shadow-md p-4">
               {recipe.image && (
                 <img
-                  src={`http://localhost:5000/${recipe.image}`}
+                  src={`https://swiftrut-task-5-backend.onrender.com/${recipe.image}`}
                   alt={recipe.title}
                   className="w-full h-40 object-cover rounded-lg mb-4"
                 />

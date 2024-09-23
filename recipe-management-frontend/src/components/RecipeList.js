@@ -76,7 +76,7 @@ const RecipeList = () => {
                         <div key={recipe._id} className="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow duration-200 ease-in-out">
                             {recipe.image && (
                                 <img
-                                    src={`http://localhost:5000/${recipe.image}`}
+                                    src={`https://swiftrut-task-5-backend.onrender.com/${recipe.image}`}
                                     alt={recipe.title}
                                     className="w-full h-48 object-cover rounded-t-lg mb-4"
                                 />
