@@ -27,4 +27,13 @@ This is a **Recipe Management System** that allows users to create, view, edit, 
 First, clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-github-username/repository-name.git
+git clone https://github.com/Meet98787/swiftrut-task--5.git
+
+
+### **Instructions for Using the README:**
+
+1. **Replace Placeholder Text**: Make sure to replace the placeholders in the `git clone` command and `.env` variables with your actual repository and environment values.
+2. **Check Links**: Ensure that the live URLs for your Vercel frontend and Render backend are correct.
+3. **Add Any Additional Details**: If there are any additional technologies or configurations, feel free to add them.
+
+Let me know if you need any more adjustments or further details!
